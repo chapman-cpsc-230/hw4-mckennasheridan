@@ -2,17 +2,17 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** McKenna Sheridan
 
-**Due date:** _\<date\>_
+**Due date:** Friday, March 18, 2016
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+This assignment required me to complete six different tasks. First, I had to write a code that computes the Heaviside function, which is a piecewise function. Second, I had to write a more complex version of the piecewise function. Third, I had to write a code counting the number of a particular base pair in a DNA sequence. Fourth, I had to write a code that would print a histogram of a given set of data. The fifth task required me to print the same histogram but with a particular format. Finally, I had to write a code that counted the number of digits in a particular number. All of these exercises required me to use definitions and loops (for,if, and while).
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+These exercises enhanced my understanding of loops as well as definitions and strings.
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+McKenna Sheridan
